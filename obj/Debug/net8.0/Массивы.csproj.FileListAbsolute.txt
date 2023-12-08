@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.AssemblyInfo.cs
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.sourcelink.json
+C:\Users\Илья\Desktop\WCode\Массивы\bin\Debug\net8.0\Массивы.exe
+C:\Users\Илья\Desktop\WCode\Массивы\bin\Debug\net8.0\Массивы.deps.json
+C:\Users\Илья\Desktop\WCode\Массивы\bin\Debug\net8.0\Массивы.runtimeconfig.json
+C:\Users\Илья\Desktop\WCode\Массивы\bin\Debug\net8.0\Массивы.dll
+C:\Users\Илья\Desktop\WCode\Массивы\bin\Debug\net8.0\Массивы.pdb
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.dll
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\refint\Массивы.dll
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.pdb
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\Массивы.genruntimeconfig.cache
+C:\Users\Илья\Desktop\WCode\Массивы\obj\Debug\net8.0\ref\Массивы.dll
