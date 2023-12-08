@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Создаем массив из 10 случайных целых чисел от 1 до 100
-        int[] numbers = GenerateRandomNumbers(10, 1, 100);
+        int[] numbers = GenerateRandomNumbers(10, 1, 101);
 
         // Выводим сгенерированный массив на экран
         Console.WriteLine("Сгенерированный массив:");
